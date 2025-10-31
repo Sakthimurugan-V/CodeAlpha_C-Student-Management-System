@@ -74,12 +74,7 @@ Enter Name: Sakthi
 Enter Age: 20
 Enter Grade: A
 ✅ Student added successfully!
-🧑‍💻 Author
-Sakthi
-💼 GitHub Profile
-📧 [Your Email or LinkedIn]
 
-🏷️ Tags / Hashtags
 #CProgramming #StudentManagementSystem #FileHandling
 #MiniProjectInC #StructuredProgramming #CRUDOperations
 #ConsoleApplication #GitHubProjects #ProgrammingForBeginners
